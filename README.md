@@ -4,9 +4,10 @@ Read more on the build at: https://thebrightknight.github.io/
 
 For detailed usage instructions visit - https://thebrightknight.github.io/powerbox/2025/02/18/post1.html
 
-![](Image/img1.jpeg)
-
-![](Image/img1.jpeg)
+<div style="display: flex; justify-content: space-between;">
+  <img src="Image/img1.jpg"  width="400px">
+  <img src="Image/img2.jpeg"  width="400px">
+</div>
 
 
 #### License Note:
